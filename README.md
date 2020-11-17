@@ -1,2 +1,2 @@
-# Jupyter_Notebook_Sarrera
+# Jupyter Notebook para Estudiantes
 Introducción a Jupyter Notebook
